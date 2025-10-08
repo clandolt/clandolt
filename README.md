@@ -13,7 +13,7 @@
 
 ## 🎓 Education
 
-- **PhD Computer Science**, CISPA / ELLIS PhD Program (2024 – present)
+- **PhD Computer Science**, CISPA / ELLIS PhD Program (2025 – present)
 - **MSc Engineering (Data Science)**, OST 🇨🇭
 - **BSc Systems Engineering (Computer Science)**, OST 🇨🇭
 
