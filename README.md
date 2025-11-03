@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 Doctoral researcher at the [CISPA Helmholtz Center for Information Security](https://cispa.de/en) in Saarbrücken, Germany, supervised by [Mario Fritz](https://cispa.saarland/group/fritz/), and an [ELLIS PhD student](https://ellis.eu/).
+- 🎓 [ELLIS](https://ellis.eu/) Doctoral researcher at the [CISPA Helmholtz Center for Information Security](https://cispa.de/en) in Saarbrücken, Germany, supervised by [Mario Fritz](https://cispa.saarland/group/fritz/) (primary advisor, CISPA), and [Florian Tramèr](https://floriantramer.com/) (secondary advisor, [ETH Zürich - Secure and Private AI (SPY) Lab)](https://spylab.ai/).
 - 🔬 Researching **agentic and self-improving systems for cyber security**, combining **generative AI, multi-agent learning, game theory, and cyber security**.
 - 🛠 Past: Offensive pentesting agents w/ MARL at Cyber-Defence Campus 🇨🇭, ML research assistant at ICE Buchs (OST).
 - 📍 Currently in Saarbrücken 🇩🇪 (originally 🇨🇭).
